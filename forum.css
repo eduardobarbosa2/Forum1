@@ -1,0 +1,399 @@
+body{
+    background-image:url(imagens/galaxia.jpg);
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #919191;
+    font-size: 15px;
+    
+}
+
+
+
+header{
+    height: 15px;
+    padding: 0 0 70 0;
+    /* margin-left: 10px; */
+    margin-right: auto;
+    /* border:  1px solid red; */
+    background-color: #404040;
+    
+
+}
+
+
+
+a{
+    color:#FFFAFA ;
+    text-decoration: none;
+    }
+
+    nav{
+        width: 1362px;
+        height: 50px;
+        /* padding-top: 0px; */
+        /* border: red 1px solid; */
+        background-color: #404040;
+        /* margin-left:0 */
+        
+
+    }
+    nav ul{
+        margin: 0;
+        list-style: none;
+        text-transform: uppercase;
+        font-size: 20px;
+        
+    }
+    nav li{
+        display: inline-block;
+         text-align: center;
+        font-size: 18;
+     
+    }
+    nav li a{
+        
+        /* padding: 0 100 0 0; */
+        font-weight: bold;
+        /* float: left; */
+        font-size: 17px;
+        text-align: center;
+    }
+    nav li a:hover{  
+        color: #8C52FF;
+        text-decoration: none;
+        
+    }
+.link-inicio{
+
+    padding: 0 0 0 300;
+
+}
+.link-home{
+    margin-top: 5px
+}
+
+
+
+main{
+    /* margin-top: 10; */
+    width: 1550px;
+    height: 1300px;
+    background-color: #303030;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sobremim{
+    /* margin-top: 10; */
+    width: 1550px;
+    height: 1000px;
+    background-color: #303030;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.section-main3{
+
+margin-top: 250px;
+/* border: #8C52FF solid 1px; */
+}
+
+.caixa1{
+    margin-top: 50px;
+    width: 50%;
+    height: 150px;    
+    display: inline-block;
+    text-align: justify;
+    color: #FFFAFA;
+    margin-left: 90px;
+    
+    
+}
+
+
+
+section h1{
+    color: #FFFAFA;
+    /* margin-left: px; */
+    /* border: #8C52FF solid 1px; */
+    
+}
+
+
+
+ .img1{
+     margin-top: 80px;
+    width: 225px;
+    height: 150px;   
+    /* border: #8C52FF solid 1px;  */
+    float: right;
+    padding-right: 190px;
+    
+ }
+
+ .caixa2{
+    margin-top: 180px;
+    width: 50%;
+    height: 150px;    
+    display: inline-block;
+    text-align: justify;
+    color: #FFFAFA;
+    padding-left: 150px;
+    /* border: #8C52FF solid 1px;  */
+    
+    
+    
+    
+}
+
+
+.menu{
+    /* border: #8C52FF 1px solid; */
+    height: 90px;
+    display: grid;
+    width: 1900px;
+    grid-template-columns: 20% 10% 10% 30% 30%;
+
+
+
+}
+
+.menu1{
+    margin-top: 5px;
+}
+
+
+.menu2{
+    margin-top: 30px;
+    /* border: #747474 solid 1px; */
+}
+
+
+ .img2{
+ margin-top: 180px;
+ width: 225px;
+ height: 150px;   
+ /* border: #8C52FF solid 1px;  */
+ float: left;
+ margin-left: 50px;
+ padding-right: 0px;
+ }
+
+ .caixa3{
+    margin-top: 50px;
+    width: 50%;
+    height: 150px;    
+    display: inline-block;
+    text-align: justify;
+    color: #FFFAFA;
+    margin-left: 90px;
+   
+ }
+
+ .img3{
+    margin-top: 50px;
+    width: 225px;
+    height: 150px;   
+    /* border: #8C52FF solid 1px;  */
+    float: right;
+    padding-right: 190px;
+}
+
+
+#bemvindo{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:100px;
+    height: 750px;
+    width: 1500px;
+    background-color: #303030;
+}
+
+#info{
+    width: 3%;
+    margin-top: 10px;
+    color: #8C52FF;
+    size: 20px;
+    float: right;
+    /* border: #8C52FF solid 1px;  */
+
+}
+
+.section-main4{
+    margin-top: 40px;
+    border: #8C52FF solid 1px;   
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+.section-main4 h1{
+    font-size: 30px;
+}
+
+.section-main6 h1{
+    margin-left: 20px;
+    font-size: larger;
+}
+
+.section-main6{
+    /* border: #8C52FF solid 1px;    */
+    background-color: #747474;
+    
+}
+
+.forum{
+    /* border: #8C52FF 1px solid; */
+    width: 1200px;
+    height: 1000px;
+    display: grid;
+    grid-template-columns: 70% 10% 20%;
+}
+
+    
+.coluna{
+    margin-top: 40px;
+    color: #FFFAFA;
+}
+
+
+.gigalogo{
+
+    /* border: #8C52FF solid 1px;  */
+    display: grid;
+    width: 1200px;
+    height: 400px;
+    margin-top: 130px;
+    grid-template-columns: 50% auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.sec-div{
+    /* border: #8C52FF 1px solid; */
+    margin-left: auto;
+    margin-top: 100px;
+
+}
+
+.sec-form{
+    margin-top: 100px;
+
+}
+#sec-form h1{
+    margin-top: 100px;
+    font-size: 40px;
+    text-align: center;
+    /* border: #8C52FF 1px solid; */
+}
+#sec-form p{
+    color: #FFFAFA;
+    text-align: center;
+    /* border: #8C52FF 1px solid; */
+    margin-top: 15px;
+}
+
+#sec-entrar form{
+    border: #303030 1px solid;
+    height: 250px;
+    margin-top: 100px;
+}
+
+#sec-form label{
+    display:inline-block;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    /* margin: 10px; */
+    /* border: #8C52FF 1px solid; */
+
+
+}
+
+#sec-form textarea{
+    margin-top: 5px;
+    width: 180px;
+    height: 60px;
+    /* border-radius: 20px; */
+}
+
+
+#sec-form input{
+    /* margin-top: 10px; */
+    height: 35px;
+    width: 385px;
+    text-align: center;
+    border-radius: 9px;
+
+}
+
+.canvas:hover{
+    color: #8C52FF;
+    text-decoration: underline;  
+
+}
+
+#sec-sobre{
+    /* border: #8C52FF 1px solid; */
+    text-align: center;
+    color: #FFFAFA;
+    font-size: larger;
+
+}
+
+#sec-sobre h1{
+    margin-top: 200px;
+    font-size: 40px;
+
+}
+#sec-sobre p{
+    margin-left:100px ;
+    width: 400px;
+    text-align: justify;
+}
+
+footer{
+    text-align: center;
+}
+
+a.botao1,.botao2{
+    /* color: #FFFAFA; */
+    
+    text-align: center;
+    display: inline-block;
+    /* font-weight: bold; */
+    /* font-size: 15px; */
+    padding: 4px 15px;
+   
+    height: 30px;
+    width: 190px;
+}
+.botao1{
+ border: #747474  1px solid;
+ border-radius: 7px;
+ font-size: 17px;
+ background-color: #747474;
+}
+
+.botao2{
+border: #8C52FF 1px solid;
+border-radius: 7px;
+font-size: 17px;
+width: 120px;
+background-color: #8C52FF;
+}
+
+    
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,81 @@
+INDEX:
+
+    Ao entrar no site:
+        <h1> Bem-vindo!
+        <botão> Entrar
+
+    Ao clicar no i:
+        <h1> Sobre o site
+        <p> Este site é uma plataforma de estudo e portfólio profissional. Aqui você encontrará tudo sobre a minha jornada no mundo da tecnologia, passando por formações acadêmicas, cursos e experiências
+
+PORTFÓLIO:
+
+    Seguindo o modelo 03 de section, mas com uma imagem acima do texto e outra acima:
+
+        <h1> WithoutWaste 0.1
+        <img> ww01_footage.png
+        <p> WithoutWaste foi um projeto desenvolvido para a conclusão do meu curso técnico no senai, onde as equipes formadas entre alunos do terceirão foram "contratadas" por equipes do segundo ano. Minha equipe foi "contratada" pelos criadores do WithoutWaste. O projeto inicial era de um app mobile de receitas saudáveis e sustentáveis, fossem veganas, vegetarianas, livres de glúten, ovos, leite etc. Essas características seriam separadas em categorias dentro do app. Havera também um sistema de cadastro e login para os usuários. Essa imagem acima é da primeira identidade visual do app, idealizada pelos contratantes, abaixo, o desenvolvido, já aplicado nos padrões do Android. Sofreria muitas mudanças apartir daí, como todos os outros aspectos do projeto, que também sofreram muitas mudanças desde a concepção. Fosse por viabilidade ou usabilidade.
+        <img> ww01_footage2.png
+
+    Seguindo o modelo 01:
+
+        <h1> Acesso ao Desenvolvimento inicial do Projeto
+        <p> Para ver todas as imagens fornecidas à minha equipe de desenvolvedores acesse o link do CANVA ou escaneie o QR Code ao lado.
+        // Edu, ali na palavra CANVA tu anexa esse link: https://www.canva.com/design/DAE7tQWJ_ZA/U1cwQWKzeoJPypmEIjyB7g/view?utm_content=DAE7tQWJ_ZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+        <img> ww01_qrcode.png
+
+    Seguindo o modelo 03:
+
+        <h1> Resultado final
+        <p> O projeto apresentado ao final do projeto possui muitas mudanças visuais e funcionais
+            se comparado ao modelo inicial. Na imagem abaixo, fotos do resultado e um QR Code que leva
+            um drive que contém o APK de instalação do app.
+        <img> ww01_footage3.png
+
+FORMAÇÃO:
+
+    Seguindo o modelo 01:
+
+        <h1> Ensino Médio Integrado
+        <p> De 2019 à 2021 estudei no Senai de São José, cursando o ensino médio integrado com o técnico de desenvolvimento de sistemas. Além das áreas padrão do EM (Linguagens, Ciências da Natureza, Ciências Humanas e Matemática), existia a area técnica, introduzida como uma matéria adicional. No primeiro ano tivemos introdução à algoritimos e sistemas lógicos, com um pouco de JS introduzido no HTML. No segundo ano fomos apresentados ao Java Descktop e as interfaces gráficas, lógica matemática, estruturas padrão de repetição condicionais, além de hierarquias. O terceiro ano aperfeiçoou as lógicas e macânicas junto do desenvolvimento mobile pelo Android, onde desenvolvemos o Without Waste presente em PROJETOS.
+        // Edu, ali na palavra PROJETOS tu anexa esse link: projetos.html
+        <img> faxada_senai.png
+
+    Seguindo o modelo 02:
+
+        <h1> Curso Jovem Programador
+        <p> Em meados de 2021 iniciei o primeiro módulo do curso Jovem Programador do Senac. Consistia em um WorkShop de 8 horas de carga horária de introdução ao mundo da tecnologia e programação. Houve uma seleção para o segundo módulo, de Programador de Sistemas, na qual eu passei. Nesse módulo houve, para mim, uma redundante introdução à algoritimos e sistemas lógicos, com Java Descktop e as interfaces gráficas, lógica matemática, estruturas padrão de repetição condicionais e hierarquias... Desenvolvemos, em equipe, um sistema de cadastro de passagens aéreas. Porém, só funciona em execução pelo IDE. O segundo módulo rendeu um certificado, como Programador de sistemas. O terceiro módulo, que ainda estou cursando, é de desenvolvimento web, do qual esse site faz parte.
+        <img> faxada_senac.png
+
+    Seguindo o modelo 01:
+
+        <h1> Cursos Off-Grade
+        <p> Além de cursos certificados, fiz alguns cursos introdutórios e iniciais. Para exemplificar, não são cursos que eu colocaria em currículo como formação, mas foram importantes para me guiar em meus estudos. Entre esses cursos, posso citar robótica, que fiz durante um trimestre como contraturno no senai, em 2019, do qual aprendi a base da eletrônica e programação em C#, pelo Arduino. Além disso algumas imersões da Alura, como a Imersão DEV WEB, onde vi HTML, CSS e JS, em outubro de 2020; ou a imersão DEV VENON, com introdução à Python.
+        <img> escola_offgrid.png
+
+SOBRE MIM:
+
+    Seguindo o modelo 03 mas sem a imagem:
+
+        <h1> Biografia
+        <p> Nasci em Florianópolis, no dia 24 de Outubro de 2004, em um domingo. Morei nos Ingleses por dois anos (não tenho nenhuma memória disso),
+            depois em Biguaçu, até meus 11 anos. Minha entrada na escola foi meio bagunçada, pois coincidiu com a extinção do "prézinho",
+            que tranformava ele em primeiro ano, e mudou o periodo fundamental de 8, para 9 anos. Sendo assim, pela minha idade,
+            eu teria que repetir o prézinho, mas como primeiro ano... por algum motivo isso não aconteceu, e eu fui direto para o segundo ano.
+            Ou seja, além de fazer aniversário no fim do ano, ainda era uma ano mais novo que todos, sendo assim, a diferença de idade entre meus
+            colegas de turma e eu era de quase um ano e meio, que nessa faze do desenvolvimento é muita coisa...
+
+    Seguindo o modelo 02 mas sem titulo:
+    
+        <p> Em 2015 nos mudamos para Palhoça, eu estava no 5º ano e fui matriculado na escola municipal do bairro.
+            Foi o maior periodo sem mudar de escola na minha vida, fiquei lá até o 9º, sempre como aluno médio,
+            sema nenhum relacionamento especial com nenhum professor ou matéria. Mesmo assim sempre gostei de ir pra escola,
+            sempre tinha alguém pra conversar e volei pra jogar. Ainda na Palhoça, em 2019, comecei o ensino médio no senai de São José
+            integrado com o técnico. No início do primeiro ano veio a pandemia, e o isolamento. Perto da metade do terceiro ano,
+            eu ainda em 100% EaD, me mudei para Florianópolis de novo, dessa vez, no Centro. Voltamos ao presencial logo depois das
+            férias de meio de ano. Não teve formatura nem viagem.
+        <img> paulo.png
+
+FÓRUM:
+
+    Conteúdo
